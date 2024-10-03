@@ -1,4 +1,4 @@
-package main
+package ksvwordlistgo
 
 var WordList = []string{
 	"abacus",
